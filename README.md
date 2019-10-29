@@ -3,4 +3,4 @@
 
 
 
-In this script root password for mysql is # password
+In this script root password for mysql is password
