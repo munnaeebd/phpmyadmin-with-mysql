@@ -1,6 +1,6 @@
 # phpmyadmin-with-mysql
-php-myadmin-with-mysql in Kubernetes
+# php-myadmin-with-mysql in Kubernetes
 
 
 
-In this script root password for mysql is password
+In this script root password for mysql is # password
